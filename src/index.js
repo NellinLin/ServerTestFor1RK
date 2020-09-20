@@ -13,5 +13,4 @@ const regView = new RegView(app, router, {});
 router.addRoute('/', loginView);
 router.addRoute('/reg', regView);
 
-router.open(window.location.pathname, {});
-
+router.open(window.location.pathname);
