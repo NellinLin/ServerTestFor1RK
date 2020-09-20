@@ -1,0 +1,25 @@
+{
+  "name": "ServerTestFor1RK",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NellinLin/ServerTestFor1RK.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NellinLin/ServerTestFor1RK/issues"
+  },
+  "homepage": "https://github.com/NellinLin/ServerTestFor1RK#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
